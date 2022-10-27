@@ -1,5 +1,7 @@
 # watch-us-build-trello
 
+CRUD app that integrates vue, vuex, components and drag and drop api
+
 ## Project setup
 ```
 yarn install
